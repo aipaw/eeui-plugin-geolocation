@@ -13,7 +13,7 @@
 
 @implementation AppgeolocationModule
 
-WX_PlUGIN_EXPORT_MODULE(geolocation, AppgeolocationModule)
+WX_PlUGIN_EXPORT_MODULE(eeuiGeolocation, AppgeolocationModule)
 WX_EXPORT_METHOD(@selector(get:))
 WX_EXPORT_METHOD(@selector(watch::))
 WX_EXPORT_METHOD(@selector(clearWatch:))

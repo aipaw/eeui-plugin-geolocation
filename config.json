@@ -1,0 +1,6 @@
+{
+	"desc": "获取当前位置、实时监听定位",
+	"requireFormatName": "eeuiGeolocation",
+	"requireName": "eeui/geolocation",
+	"title": "地理定位"
+}

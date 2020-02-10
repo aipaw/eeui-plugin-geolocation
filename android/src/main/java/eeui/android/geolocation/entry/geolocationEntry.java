@@ -19,7 +19,7 @@ public class geolocationEntry {
 
         //1、注册weex模块
         try {
-            WXSDKEngine.registerModule("geolocation", AppgeolocationModule.class);
+            WXSDKEngine.registerModule("eeuiGeolocation", AppgeolocationModule.class);
         } catch (WXException e) {
             e.printStackTrace();
         }
